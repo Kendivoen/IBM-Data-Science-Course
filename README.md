@@ -1,2 +1,2 @@
-# IBM-Data-Science-Course_Python
+# IBM-Data-Science-Course
 Assignments from IBM Data Science Course
